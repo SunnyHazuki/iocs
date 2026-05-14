@@ -1,4 +1,4 @@
-﻿Type,Artifacts,Package,Version,Date,Reference
+Type,Artifacts,Package,Version,Date,Reference
 package,@tanstack/history@1.161.9,@tanstack/history,1.161.9,12/05/2026,https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised
 package,@tanstack/react-router@1.169.5,@tanstack/react-router,1.169.5,12/05/2026,https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised
 package,@tanstack/router-core@1.169.5,@tanstack/router-core,1.169.5,12/05/2026,https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised
@@ -1936,15 +1936,18 @@ package,@ctrl/ngx-rightclick@4.0.2,@ctrl/ngx-rightclick,4.0.2,24/11/2025,https:/
 package,@ctrl/qbittorrent@9.7.2,@ctrl/qbittorrent,9.7.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@ctrl/react-adsense@2.0.2,@ctrl/react-adsense,2.0.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@ctrl/shared-torrent@6.3.2,@ctrl/shared-torrent,6.3.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
-package,@ctrl/tinycolor@4.1.1, @4.1.2,@ctrl/tinycolor,4.1.1, @4.1.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,@ctrl/tinycolor@4.1.1,@ctrl/tinycolor,4.1.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,@ctrl/tinycolor@4.1.2,@ctrl/tinycolor,4.1.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@ctrl/torrent-file@4.1.2,@ctrl/torrent-file,4.1.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@ctrl/transmission@7.3.1,@ctrl/transmission,7.3.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@ctrl/ts-base32@4.0.2,@ctrl/ts-base32,4.0.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,encounter-playground@0.0.5,encounter-playground,0.0.5,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
-package,json-rules-engine-simplified@0.2.4, 0.2.1,json-rules-engine-simplified,0.2.4, 0.2.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
-package,koa2-swagger-ui@5.11.2, 5.11.1,koa2-swagger-ui,5.11.2, 5.11.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,json-rules-engine-simplified@0.2.4,json-rules-engine-simplified,0.2.4,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,json-rules-engine-simplified@0.2.1,json-rules-engine-simplified,0.2.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,koa2-swagger-ui@5.11.2,koa2-swagger-ui,5.11.2,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,koa2-swagger-ui@5.11.1,koa2-swagger-ui,5.11.1,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@nativescript-community/gesturehandler@2.0.35,@nativescript-community/gesturehandler,2.0.35,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
-package,@nativescript-community/sentry 4.6.43,#VALORE!,#VALORE!,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
+package,@nativescript-community/sentry@4.6.43,@nativescript-community/sentry,4.6.43,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@nativescript-community/text@1.6.13,@nativescript-community/text,1.6.13,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@nativescript-community/ui-collectionview@6.0.6,@nativescript-community/ui-collectionview,6.0.6,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
 package,@nativescript-community/ui-drawer@0.1.30,@nativescript-community/ui-drawer,0.1.30,24/11/2025,https://jfrog.com/blog/shai-hulud-npm-supply-chain-attack-new-compromised-packages-detected/
